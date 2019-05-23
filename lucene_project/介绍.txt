@@ -1,0 +1,3 @@
+﻿temp的index存储的是分词之后的索引库
+searchsource是需要分词的文档
+doc是介绍文档
